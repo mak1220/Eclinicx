@@ -1,0 +1,35 @@
+body
+{
+    background-color:#ecf0f5;
+    font-family: 'Source Sans Pro',sans-serif
+}
+
+.doctor
+{
+    background-color:#3c8dbc;
+    border-radius:1px;
+   
+    
+    margin-left:100px;
+    font-family: 'Source Sans Pro',sans-serif;
+    font-size:14px;
+    font-weight:600;
+    text-align: center;
+    vertical-align: middle;
+    width:290.75px;
+    height:34px;
+    color:white;
+    border-color: #367fa9;
+    
+   
+}
+
+.doctor:hover{
+    
+    background-color:#2e6da4;
+    cursor:pointer;
+    
+    
+}
+
+
